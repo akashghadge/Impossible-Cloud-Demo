@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Impossible-Cloud-Demo/static/css/main.b0f116a1.css",
+    "main.js": "/Impossible-Cloud-Demo/static/js/main.78197daa.js",
+    "static/js/787.b701888c.chunk.js": "/Impossible-Cloud-Demo/static/js/787.b701888c.chunk.js",
+    "static/media/impossible_cloud.png": "/Impossible-Cloud-Demo/static/media/impossible_cloud.666a5bb0624d0c6cf9bb.png",
+    "static/media/bootstrap-icons.woff?": "/Impossible-Cloud-Demo/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/better_cloud.png": "/Impossible-Cloud-Demo/static/media/better_cloud.6ed65bb6f921bb794989.png",
+    "static/media/bootstrap-icons.woff2?": "/Impossible-Cloud-Demo/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/cube.png": "/Impossible-Cloud-Demo/static/media/cube.a1b70922d3e78a121bb3.png",
+    "static/media/card_bg.svg": "/Impossible-Cloud-Demo/static/media/card_bg.572f8188222855008d10.svg",
+    "static/media/logo1.png": "/Impossible-Cloud-Demo/static/media/logo1.247b8defad89ffad7cbd.png",
+    "static/media/Graph.jpg": "/Impossible-Cloud-Demo/static/media/Graph.a699f3f625f08cc4d988.jpg",
+    "static/media/logo2.png": "/Impossible-Cloud-Demo/static/media/logo2.91d4c24cda1da1ef5bfa.png",
+    "static/media/logo4.png": "/Impossible-Cloud-Demo/static/media/logo4.e1ea0bdd02b0b471b362.png",
+    "index.html": "/Impossible-Cloud-Demo/index.html",
+    "static/media/arrow-right.svg": "/Impossible-Cloud-Demo/static/media/arrow-right.73edd4dd8f4e9309e08b13737573ed38.svg",
+    "main.b0f116a1.css.map": "/Impossible-Cloud-Demo/static/css/main.b0f116a1.css.map",
+    "main.78197daa.js.map": "/Impossible-Cloud-Demo/static/js/main.78197daa.js.map",
+    "787.b701888c.chunk.js.map": "/Impossible-Cloud-Demo/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f116a1.css",
+    "static/js/main.78197daa.js"
+  ]
+}
